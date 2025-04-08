@@ -1,17 +1,16 @@
 {
 	"schemaVersion": 1,
 	"id": "elemental-items",
-	"version": "${version}",
+	"version": "1.21.4",
 	"name": "Elemental Items",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod adds elemental items.",
 	"authors": [
-		"Me!"
+		"IamRitvik"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/IamRitvik/"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/elemental-items/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -34,8 +33,8 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.13",
-		"minecraft": "~1.21.4",
-		"java": ">=21",
+		"minecraft": "1.21.4",
+		"java": "21",
 		"fabric-api": "*"
 	},
 	"suggests": {
