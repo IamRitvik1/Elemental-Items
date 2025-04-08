@@ -8,11 +8,11 @@
 		"IamRitvik"
 	],
 	"contact": {
-		"sources": "https://github.com/IamRitvik/"
+		"sources": "https://github.com/IamRitvik1/Elemental-Items"
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/elemental-items/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"com.elementalitems.ElementalItems"
@@ -36,8 +36,5 @@
 		"minecraft": "1.21.4",
 		"java": "21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
