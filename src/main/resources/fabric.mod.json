@@ -15,7 +15,8 @@
 	"environment": "client",
 	"entrypoints": {
 		"main": [
-			"com.elementalitems.ElementalItems"
+			"com.elementalitems.ElementalItems",
+			"com.elementalitems.Initializer"
 		],
 		"client": [
 			"com.elementalitems.ElementalItemsClient"
