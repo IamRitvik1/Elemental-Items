@@ -21,7 +21,7 @@ public class ModItems {
         FuelRegistryEvents.BUILD.register((builder, context) -> builder.add(ModItems.FIRE_SHARD, 5 * 60 * 20));
     }
 
-    public static final Item FIRE_SHARD = register("fire_shard", Item::new, new Item.Settings());
+    public static final Item FIRE_SHARD = register("fire_shard", FireShard::new, new Item.Settings());
 
     public static Item register(String name, Function<Item.Settings,Item> itemFactory, Item.Settings settings)
     {
