@@ -1,4 +1,5 @@
 {
   "itemTooltip.elemental-items.fire_shard": "This item can instantly spawn fire and maybe can make new tools.",
-  "item.elemental-items.fire_shard": "Fire Shard"
+  "item.elemental-items.fire_shard": "Fire Shard",
+  "itemTooltip.elemental-items.water_shard": "Water Shard"
 }
