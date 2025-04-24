@@ -10,5 +10,6 @@ public class Initializer implements ModInitializer {
         ModBlockEntities.initialize();
         ModRecipes.initialize();
         ModScreenHandlers.initialize();
+        ModEntities.initialize();
     }
 }
