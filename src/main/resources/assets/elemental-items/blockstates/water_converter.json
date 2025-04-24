@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "elemental-items:block/water_converter"
+    }
+  }
+}

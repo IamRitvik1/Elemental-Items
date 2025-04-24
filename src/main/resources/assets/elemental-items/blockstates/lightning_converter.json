@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "elemental-items:block/lightning_converter"
+    }
+  }
+}

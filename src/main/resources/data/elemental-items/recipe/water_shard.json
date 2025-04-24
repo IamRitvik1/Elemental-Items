@@ -1,0 +1,8 @@
+{
+  "type": "elemental-items:water_converter",
+  "ingredient": "minecraft:amethyst_shard",
+  "result": {
+    "count": 1,
+    "id": "elemental-items:water_shard"
+  }
+}

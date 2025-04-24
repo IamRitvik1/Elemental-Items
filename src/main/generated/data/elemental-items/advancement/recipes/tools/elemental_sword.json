@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_elemental_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": "elemental-items:elemental_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "elemental-items:elemental_sword"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_elemental_sword"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "elemental-items:elemental_sword"
+    ]
+  }
+}

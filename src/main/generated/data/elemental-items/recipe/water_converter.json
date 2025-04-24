@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "elemental-items:converter",
+    "e": "elemental-items:water_essence"
+  },
+  "pattern": [
+    "eee",
+    "ece",
+    "eee"
+  ],
+  "result": {
+    "count": 1,
+    "id": "elemental-items:water_converter"
+  }
+}

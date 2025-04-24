@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "c": "minecraft:netherite_pickaxe",
+    "e": "elemental-items:elemental_shard"
+  },
+  "pattern": [
+    "eee",
+    "ece",
+    "eee"
+  ],
+  "result": {
+    "count": 1,
+    "id": "elemental-items:elemental_pickaxe"
+  }
+}

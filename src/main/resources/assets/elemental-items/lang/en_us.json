@@ -1,5 +1,18 @@
 {
   "itemTooltip.elemental-items.fire_shard": "This item can instantly spawn fire and maybe can make new tools.",
   "item.elemental-items.fire_shard": "Fire Shard",
-  "itemTooltip.elemental-items.water_shard": "Water Shard"
+  "itemTooltip.elemental-items.water_shard": "This item can instantly spawn water and maybe can make new tools.",
+  "item.elemental-items.water_shard": "Water Shard",
+  "itemTooltip.elemental-items.lightning_shard": "This item can instantly spawn lightning and maybe can make new tools.",
+  "item.elemental-items.lightning_shard": "Lightning Shard",
+  "item.elemental-items.elemental_shard": "Elemental Shard",
+  "item.elemental-items.elemental_block": "Elemental Block",
+  "block.elemental-items.fire_converter": "Fire Converter",
+  "block.elemental-items.water_converter": "Water Converter",
+  "block.elemental-items.lightning_converter": "Lightning Converter",
+  "item.elemental-items.fire_converter": "Fire Converter",
+  "item.elemental-items.water_converter": "Water Converter",
+  "item.elemental-items.lightning_converter": "Lightning Converter",
+  "itemTooltip.elemental-items.converter": "This block is useless on its own. Maybe you can infuse it with something.",
+  "itemTooltip.elemental-items.essence": "This item feels very powerful but is useless on its own. Maybe you can infuse it with something."
 }

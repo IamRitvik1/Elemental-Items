@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:amethyst_shard",
+    "elemental-items:elemental_shard",
+    "elemental-items:fire_shard",
+    "elemental-items:water_shard",
+    "elemental-items:lightning_shard"
+  ]
+}

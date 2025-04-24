@@ -1,0 +1,8 @@
+{
+  "type": "elemental-items:fire_converter",
+  "ingredient": "minecraft:amethyst_shard",
+  "result": {
+    "count": 1,
+    "id": "elemental-items:fire_shard"
+  }
+}
